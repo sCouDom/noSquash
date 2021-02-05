@@ -7,5 +7,11 @@ public class LaClasePorTerceraVez {
 
 	}
 
+	public boolean isTestBool() {
+		return testBool;
+	}
 
+	public void setTestBool(boolean testBool) {
+		this.testBool = testBool;
+	}
 }
